@@ -6,3 +6,4 @@ application2
 4. list
 5. number 5
 6. fixlist update
+7. add emoji
